@@ -1,4 +1,5 @@
 Hi,
 I am practicing git.
 New Feature
+I don't know things but I can try to learn them.
 Thank you :)
